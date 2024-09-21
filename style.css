@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav{
+    padding: 0 50px;
+    font-weight: 600;
+}
+.nav-item{
+    text-decoration: none;
+}
+.btn{
+    padding: 15px !important;
+}
+.hero{
+    margin-right: 500;
+}
+.mike{
+    margin-top: 100px;
+}
+.logos{
+    display: flex;
+    padding: 50px;
+}
+.ser{
+    display: flex;
+    
+}
+.bg{
+    display: inline;
+    background-color: greenyellow;
+    border-radius: 10px;
+}
